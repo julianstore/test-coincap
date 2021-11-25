@@ -1,13 +1,26 @@
-## Build Setup
+# coincap
 
-```bash
-# install dependencies
-$ npm install
+## Overview
 
-# serve with hot reload at localhost:8080
-$ npm run serve
+<img src="coin.png" height="500">
+<img src="two.png" height="500">
 
-# build for deploying on github pages
-$ npm run build
-$ npm run deploy
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
 ```
